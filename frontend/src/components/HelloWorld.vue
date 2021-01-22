@@ -1,7 +1,6 @@
 <template>
   <div class="container">
     <h1>{{message}}</h1>
-    <h2>IT'S WORK</h2>
     <a @click="getMessage">Press Me!</a>
   </div>
 </template>
